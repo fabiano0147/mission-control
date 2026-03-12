@@ -1,18 +1,1 @@
-{
-  "tasks": [
-    {
-      "id": "task_001",
-      "title": "Configurar OpenClaw",
-      "description": "Setup completo do OpenClaw com otimizações",
-      "status": "backlog",
-      "project": "devops",
-      "tags": [
-        "devops"
-      ],
-      "subtasks": [],
-      "comments": [],
-      "createdAt": "2026-03-12T01:16:45.187Z"
-    }
-  ],
-  "version": "2.0"
-}
+{"tasks":[],"version":"2.0"}
