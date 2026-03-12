@@ -11,6 +11,18 @@
       "comments": [],
       "createdAt": "2026-03-12T01:26:00.157Z",
       "updatedAt": "2026-03-12T01:26:00.157Z"
+    },
+    {
+      "id": "task_1773278781",
+      "title": "Testar mc-create",
+      "description": "Validar funcionamento do script mc-create",
+      "status": "backlog",
+      "project": "devops",
+      "tags": [],
+      "subtasks": [],
+      "comments": [],
+      "createdAt": "2026-03-12T01:26:21.576Z",
+      "updatedAt": "2026-03-12T01:26:21.576Z"
     }
   ],
   "version": "2.0"
