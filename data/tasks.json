@@ -1,1 +1,17 @@
-{"tasks":[],"version":"2.0"}
+{
+  "tasks": [
+    {
+      "id": "task_1773278760",
+      "title": "Testar integração Atlas",
+      "description": "Validar integração do Atlas com Mission Control",
+      "status": "Backlog",
+      "project": "DevOps",
+      "tags": [],
+      "subtasks": [],
+      "comments": [],
+      "createdAt": "2026-03-12T01:26:00.157Z",
+      "updatedAt": "2026-03-12T01:26:00.157Z"
+    }
+  ],
+  "version": "2.0"
+}
